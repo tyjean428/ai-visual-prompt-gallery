@@ -11,6 +11,10 @@
 ![Media](https://img.shields.io/badge/media-images%20%7C%20videos%20%7C%20PPT-122f46)
 ![Search](https://img.shields.io/badge/search-semantic%20visual%20search-5f6b66)
 
+<h2>27,000+ Visual References, Still Growing</h2>
+
+<p><strong>Images, videos and PPT prompt cases for creators who want to study real visual outcomes, not just isolated prompt text.</strong></p>
+
 </div>
 
 ## What is this?
@@ -68,6 +72,91 @@ These are small preview examples from the public gallery. Each card links back t
       <strong>Video Scene Prompt</strong>
       <br>
       <sub>Action sequence, pacing, subject transition</sub>
+    </td>
+  </tr>
+</table>
+
+## Fresh Picks
+
+Updated: 2026-07-03
+
+This section can be refreshed from time to time so the repository feels alive without turning it into a full dataset mirror. Each example links to the full detail page on soulg.xyz.
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/jimeng_7654194268906474798">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/jimeng_7654194268906474798.jpg" width="180" alt="Rainy orchid nature prompt example">
+      </a>
+      <br>
+      <strong>Rainy Orchid Scene</strong>
+      <br>
+      <sub>Prompt focus: soft backlight, wet petals, mossy stream, natural atmosphere.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/youmind_gpt_image_2_17055">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/youmind_gpt_image_2_17055.jpg" width="180" alt="Double exposure traveler prompt example">
+      </a>
+      <br>
+      <strong>Double Exposure Traveler</strong>
+      <br>
+      <sub>Prompt focus: portrait silhouette, inner landscape, cinematic travel mood.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/youmind_gpt_image_2_23975">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/youmind_gpt_image_2_23975.jpg" width="180" alt="Galaxy geese dawn prompt example">
+      </a>
+      <br>
+      <strong>Cold Dawn Fantasy</strong>
+      <br>
+      <sub>Prompt focus: lakeshore, star river, migrating birds, blue atmosphere.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/jimeng_7639159207773605170">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/jimeng_7639159207773605170.jpg" width="180" alt="Urban fog spirit prompt example">
+      </a>
+      <br>
+      <strong>Urban Fog Spirit</strong>
+      <br>
+      <sub>Prompt focus: high-angle city scene, mist body, supernatural tension.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/jimeng_7631453766079810867">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/jimeng_7631453766079810867.jpg" width="180" alt="Snowstorm cinematic portrait prompt example">
+      </a>
+      <br>
+      <strong>Snowstorm Portrait</strong>
+      <br>
+      <sub>Prompt focus: cold side light, film grain, weathered close-up.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/nanobanana_org_1048">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/nanobanana_org_1048.jpg" width="180" alt="Battle worn knight prompt example">
+      </a>
+      <br>
+      <strong>Battle-Worn Knight</strong>
+      <br>
+      <sub>Prompt focus: armor detail, red robes, golden grass, cinematic scale.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/nano_banana_529">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/nano_banana_529.jpg" width="180" alt="Vintage dessert blueprint prompt example">
+      </a>
+      <br>
+      <strong>Dessert Blueprint</strong>
+      <br>
+      <sub>Prompt focus: 1920s lab diagram, food object, pseudo-scientific labels.</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://soulg.xyz/en/item/youmind_gpt_image_2_21832">
+        <img src="https://media.soulg.xyz/data/thumbnails/images/youmind_gpt_image_2_21832.jpg" width="180" alt="Y2K Japanese street collage poster prompt example">
+      </a>
+      <br>
+      <strong>Y2K Street Editorial</strong>
+      <br>
+      <sub>Prompt focus: Tokyo collage, torn paper, fashion magazine layout.</sub>
     </td>
   </tr>
 </table>
