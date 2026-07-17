@@ -4,10 +4,10 @@
 
 **A bilingual visual inspiration library for image, video, poster, product, character and PPT creators.**
 
-[Explore the gallery](https://soulg.xyz/en/gallery.html) | [Chinese gallery](https://soulg.xyz/gallery.html) | [About soulg.xyz](https://soulg.xyz/en/about.html) | [Dev.to write-up](https://dev.to/tyjean/i-built-a-searchable-gallery-of-27000-ai-visual-prompts-490h) | [Product Hunt](https://www.producthunt.com/products/ai-visual-prompt-gallery?launch=ai-visual-prompt-gallery)
+[Explore the gallery](https://soulg.xyz/en/gallery.html) | [Chinese gallery](https://soulg.xyz/gallery.html) | [About soulg.xyz](https://soulg.xyz/en/about.html) | [Dev.to write-up](https://dev.to/tyjean/i-built-a-searchable-gallery-of-33000-ai-visual-prompts-490h) | [Product Hunt](https://www.producthunt.com/products/ai-visual-prompt-gallery?launch=ai-visual-prompt-gallery)
 
 ![Website](https://img.shields.io/badge/website-soulg.xyz-0d6b57)
-![Gallery](https://img.shields.io/badge/references-27000%2B-c46a3d)
+![Gallery](https://img.shields.io/badge/references-33000%2B-c46a3d)
 ![Media](https://img.shields.io/badge/media-images%20%7C%20videos%20%7C%20PPT-122f46)
 ![Search](https://img.shields.io/badge/search-semantic%20visual%20search-5f6b66)
 
@@ -229,7 +229,7 @@ These patterns are not formulas. They are starting points for learning how visua
 - English gallery: [https://soulg.xyz/en/gallery.html](https://soulg.xyz/en/gallery.html)
 - Chinese gallery: [https://soulg.xyz/gallery.html](https://soulg.xyz/gallery.html)
 - About: [https://soulg.xyz/en/about.html](https://soulg.xyz/en/about.html)
-- Dev.to write-up: [I built a searchable gallery of 27,000+ AI visual prompts](https://dev.to/tyjean/i-built-a-searchable-gallery-of-27000-ai-visual-prompts-490h)
+- Dev.to write-up: [I built a searchable gallery of 33,000+ AI visual prompts](https://dev.to/tyjean/i-built-a-searchable-gallery-of-27000-ai-visual-prompts-490h)
 - Product Hunt: [AI Visual Prompt Gallery](https://www.producthunt.com/products/ai-visual-prompt-gallery?launch=ai-visual-prompt-gallery)
 - Contact: [tumi428@gmail.com](mailto:tumi428@gmail.com)
 
