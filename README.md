@@ -11,7 +11,7 @@
 ![Media](https://img.shields.io/badge/media-images%20%7C%20videos%20%7C%20PPT-122f46)
 ![Search](https://img.shields.io/badge/search-semantic%20visual%20search-5f6b66)
 
-<h2>27,000+ Visual References, Still Growing</h2>
+<h2>33,000+ Visual References, Still Growing</h2>
 
 <p><strong>Images, videos and PPT prompt cases for creators who want to study real visual outcomes, not just isolated prompt text.</strong></p>
 
